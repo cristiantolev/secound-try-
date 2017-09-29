@@ -2,9 +2,8 @@ kristian tolev
 
 file new
 
-<<<<<<< HEAD
+
 other new information
-=======
+
 more information
-tests 
->>>>>>> develops
+
